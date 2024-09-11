@@ -21,5 +21,5 @@
 * Good/Bad Loan: Visualizing good and bad loans depending on total applications, funded amount and amount recieved.
 * Analyzing total loan applications by issued date, state, term, purpose, home ownership, etc. 
 
-# Technical aspects:
+# Technical Aspects:
 The Bank Loan Dashboard is developed using Microsoft Excel.
