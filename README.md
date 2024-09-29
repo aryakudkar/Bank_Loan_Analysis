@@ -22,4 +22,5 @@
 * Analyzing total loan applications by issued date, state, term, purpose, home ownership, etc. 
 
 # Technical Aspects
-The Bank Loan Dashboard is developed using Microsoft Excel.
+* The Bank Loan Dashboard is developed using Microsoft Excel.
+* Utilizing technologies like pivot tables and slicers in Excel enhances data analysis by allowing users to dynamically summarize and filter bank loan data for insightful decision-making.
